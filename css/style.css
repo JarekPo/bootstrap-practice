@@ -1,0 +1,17 @@
+body{
+	background-color: #b0c4de;
+	text-align:center;
+	color:#665d1e;
+}
+.row{
+	margin-top:30px;
+	min-height:100px;
+	justify-content:center;
+}
+.col{
+	background-color:#c2b280;
+	border:3px solid black;
+}
+.footer{
+	margin-bottom:20px;
+}
