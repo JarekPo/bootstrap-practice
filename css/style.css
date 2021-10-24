@@ -10,8 +10,11 @@ body{
 }
 .col{
 	background-color:#c2b280;
-	border:3px solid black;
+	border:1px solid #665d1e;
 }
 .footer{
 	margin-bottom:20px;
+}
+.navbar-light{
+	background-color:#c2b280 !important;
 }
